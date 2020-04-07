@@ -1,4 +1,5 @@
 # Nim for coc.nvim
+## This is currently a work in progress, this notice will be removed once language server support is implemented.
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/kosz78.nim.svg)](https://marketplace.visualstudio.com/items?itemName=kosz78.nim)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs/kosz78.nim.svg)](https://marketplace.visualstudio.com/items?itemName=kosz78.nim)
@@ -7,6 +8,7 @@
 
 This extension adds language support for the Nim language to VS Code, including:
 
+- Support for [nimlsp](https://github.com/PMunch/nimlsp)
 - Syntax Highlight (nim, nimble, nim.cfg)
 - Code Completion
 - Signature Help
