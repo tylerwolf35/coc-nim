@@ -1,5 +1,5 @@
 # Nim for coc.nvim
-## This is currently a work in progress, this notice will be removed once language server support is implemented. As of now, if you would like language server support, use [nimlsp](https://github.com/PMunch/nimlsp) as a [https://github.com/neoclide/coc.nvim/wiki/Language-servers#nim](a custom language server).
+## This is currently a work in progress, this notice will be removed once language server support is implemented. As of now, if you would like language server support, use [nimlsp](https://github.com/PMunch/nimlsp) as a [https://github.com/neoclide/coc.nvim/wiki/Language-servers#nim](custom language server).
 
 This extension adds language support for the Nim language to VS Code, including:
 
