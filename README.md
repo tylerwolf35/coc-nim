@@ -1,11 +1,6 @@
 # Nim for coc.nvim
 ## This is currently a work in progress, this notice will be removed once language server support is implemented.
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/kosz78.nim.svg)](https://marketplace.visualstudio.com/items?itemName=kosz78.nim)
-[![Installs](https://vsmarketplacebadge.apphb.com/installs/kosz78.nim.svg)](https://marketplace.visualstudio.com/items?itemName=kosz78.nim)
-[![Ratings](https://vsmarketplacebadge.apphb.com/rating/kosz78.nim.svg)](https://vsmarketplacebadge.apphb.com/rating/kosz78.nim.svg)
-[![Build Status](https://travis-ci.org/pragmagic/vscode-nim.svg?branch=master)](https://travis-ci.org/pragmagic/vscode-nim)
-
 This extension adds language support for the Nim language to VS Code, including:
 
 - Support for [nimlsp](https://github.com/PMunch/nimlsp)
@@ -73,13 +68,3 @@ The following commands are provided by the extension:
 
 * `Nim: Run selected file` - compile and run selected file, it uses `c` compiler by default, but you can specify `cpp` in `nim.buildCommand` config parameter.
 This command available from file context menu or by `F6` keyboard shortcut.
-
-## TODO
-
-* Rename support
-* Debug support
-
-## ChangeLog
-
-ChangeLog is located [here](https://github.com/pragmagic/vscode-nim/blob/master/CHANGELOG.md)
-
