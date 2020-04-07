@@ -1,15 +1,15 @@
 {
-    "name": "nim",
-    "displayName": "Nim",
-    "description": "Nim language support for Visual Studio Code",
+    "name": "coc-nim",
+    "displayName": "coc-nim",
+    "description": "Nim language support for coc.nvim",
     "version": "0.6.6",
-    "publisher": "kosz78",
+    "publisher": "tylerwolf35",
     "author": {
-        "name": "Xored Software Inc."
+        "name": "Tyler Wolf"
     },
     "license": "MIT",
     "icon": "images/nim_icon.png",
-    "homepage": "https://github.com/pragmagic/vscode-nim/blob/master/README.md",
+    "homepage": "https://github.com/tylerwolf35/coc-nim",
     "categories": [
         "Programming Languages",
         "Linters"
@@ -20,10 +20,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/pragmagic/vscode-nim.git"
+        "url": "https://github.com/tylerwolf35/coc-nim.git"
     },
     "bugs": {
-        "url": "https://github.com/pragmagic/vscode-nim/issues"
+        "url": "https://github.com/tylerwolf35/coc-nim/issues"
     },
     "scripts": {
         "vscode:prepublish": "tsc -p ./",
@@ -56,7 +56,7 @@
         "onCommand:nim.runTest",
         "onCommand:nim.execSelectionInTerminal"
     ],
-    "main": "./out/nimMain",
+    "main": "./out/index.js",
     "contributes": {
         "languages": [
             {
