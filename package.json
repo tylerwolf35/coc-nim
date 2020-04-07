@@ -56,7 +56,6 @@
         "onCommand:nim.runTest",
         "onCommand:nim.execSelectionInTerminal"
     ],
-    "main": "./out/index.js",
     "contributes": {
         "languages": [
             {
