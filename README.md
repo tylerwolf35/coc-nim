@@ -1,4 +1,4 @@
-# Nim for Visual Studio Code
+# Nim for coc.nvim
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/kosz78.nim.svg)](https://marketplace.visualstudio.com/items?itemName=kosz78.nim)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs/kosz78.nim.svg)](https://marketplace.visualstudio.com/items?itemName=kosz78.nim)
